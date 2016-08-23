@@ -14,7 +14,7 @@ var cookieParser = require('cookie-parser');
 
 var client_id = 'c5669412f32b479b946447a0ff937c9b'; // Your client id
 var client_secret = '4edfa624401e4a22ba710cef6719edbd'; // Your secret
-var redirect_uri = 'http://mysite.com/callback/'; // Your redirect uri
+var redirect_uri = 'dulcesito.com:8888/callback'; // Your redirect uri
 
 /**
  * Generates a random string containing numbers and letters
